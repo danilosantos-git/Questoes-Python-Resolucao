@@ -1,0 +1,1 @@
+Questões de Python e possíveis reoluções para as mesmas.
