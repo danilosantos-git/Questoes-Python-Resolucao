@@ -1,7 +1,7 @@
 # 2. Uma empresa decidiu dar bônus aos colaboradores baseada no tempo de serviço.
 # • Tempo de serviço > 10 anos – 10 %
 # • 6 anos <= Tempo de serviço <= 10 anos – 8 %
-# • Tempo de serviço <= 10 anos – 5 %
+# • Tempo de serviço < 6 anos – 5 %
 # Apresente o valor líquido de aumento dado o tempo de serviço e salário do
 # colaborador
 
